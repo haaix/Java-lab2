@@ -171,9 +171,9 @@ lab2-学生选课系统
     }
 ```
 ## 六、运行截图
- 教师界面
+ **教师界面**
 ![](https://github.com/haaix/Java-lab2/blob/main/%E8%80%81%E5%B8%88%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
-<br> 学生界面
+<br> **学生界面**
 ![](https://github.com/haaix/Java-lab2/blob/main/%E5%AD%A6%E7%94%9F%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 
