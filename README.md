@@ -170,15 +170,18 @@ lab2-学生选课系统
         System.out.println("您已成功退出该课程!");
     }
 ```
-## 六、运行截图
+
+## 六、流程图
+![](https://github.com/haaix/Java-lab2/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+## 七、运行截图
  **教师界面**
 ![](https://github.com/haaix/Java-lab2/blob/main/%E8%80%81%E5%B8%88%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 <br> **学生界面**
 ![](https://github.com/haaix/Java-lab2/blob/main/%E5%AD%A6%E7%94%9F%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
-
 ## 八、实验感想
-做完这次实验我发现其实不管java东西有多少，总有规律可循。 对于学习java基础的经验就是多做、多思考，
+&emsp;&emsp;做完这次实验我发现其实不管java东西有多少，总有规律可循。 对于学习java基础的经验就是多做、多思考，
 基础知识的学习不能不求甚解，要追本溯源，弄清问题的本质。这样才能举一反三，由点及面。
 java的所有编程思路都是“面向对象”的编程。所以大家在往更高境界发展以前一定要打好基础，基础是王道。
 我们的基础要扎实。所谓打好基础并不是说要熟悉所有的java代码。要了解java的结构，让自己在结构上对java有个立体而且整体的了解。
